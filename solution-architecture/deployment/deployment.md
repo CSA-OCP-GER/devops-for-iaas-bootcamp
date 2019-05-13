@@ -1,0 +1,1 @@
+# Deployment resources for solution architecture

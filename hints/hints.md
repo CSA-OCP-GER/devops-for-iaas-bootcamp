@@ -1,0 +1,1 @@
+# Hints for thos bootcamp
